@@ -96,3 +96,24 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 - Perform **transient analysis** to verify the output logic.
 - Set up **input stimulus** and analyze the **output waveform**.
 
+## Aim
+The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and verify its functionality through transient analysis simulation.
+
+## Tools Required
+### Cadence Virtuoso Suite
+- **Virtuoso Schematic Editor** (for circuit design)
+- **Spectre Simulator** (for circuit simulation)
+
+### Process Design Kit (PDK)
+- CMOS technology library
+
+### Computer System
+- Minimum **4GB RAM** and a **multi-core processor**
+
+## Procedure
+
+### 1. Launch Cadence Virtuoso Environment:
+- Open the **Cadence Virtuoso** tool and set up the working library.
+- Create a new **schematic cell view** for the 1-bit Full Adder design.
+
+### 2. Schematic Design:
