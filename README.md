@@ -111,4 +111,3 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 - Open the **Cadence Virtuoso** tool and set up the working library.
 - Create a new **schematic cell view** for the 1-bit Full Adder design.
 
-### 2. Schematic Design:
