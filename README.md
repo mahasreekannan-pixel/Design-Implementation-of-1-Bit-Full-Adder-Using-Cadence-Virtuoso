@@ -111,8 +111,4 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 - Construct the **Full Adder circuit** using **CMOS**.
 - Connect the inputs (**A, B, Cin**) and outputs (**Sum, Cout**) properly.
 
-### 3. Simulation:
-- Check the design for **errors** and proceed with simulation.
-- Launch the **Analog Design Environment (ADE)**.
-- Perform **transient analysis** to verify the output logic.
-- Set up **input stimulus** and analyze the **output waveform**.
+
