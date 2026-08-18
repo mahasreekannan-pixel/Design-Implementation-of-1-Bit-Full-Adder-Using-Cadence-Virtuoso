@@ -100,8 +100,6 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 ### Computer System
 - Minimum **4GB RAM** and a **multi-core processor**
 
-## Procedure
-
 ### 1. Launch Cadence Virtuoso Environment:
 - Open the **Cadence Virtuoso** tool and set up the working library.
 - Create a new **schematic cell view** for the 1-bit Full Adder design.
